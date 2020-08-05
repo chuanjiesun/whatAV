@@ -8,7 +8,7 @@ detect AV on windows via process name
 > console and results.txt
 
 # preview 
-![image](https://github.com/chuanjiesun/whatAV/blob/master/whatAV.png)
+![](https://github.com/chuanjiesun/whatAV/blob/master/whatAV.png)
 
 # av json data from telllpu
 >https://github.com/telllpu/WhatAV
