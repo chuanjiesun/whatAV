@@ -12,3 +12,5 @@ detect AV on windows via process name
 
 # av json data from telllpu
 >https://github.com/telllpu/WhatAV
+
+# 好评就star一下！
